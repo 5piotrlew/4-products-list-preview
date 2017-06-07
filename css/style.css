@@ -36,7 +36,8 @@ body {
 #products .size .koszyk i {
     font-size: 3em;
     color: #fff;
-    margin: 42%;
+    margin: 0 42%;
+    line-height: 600%;
 }
 
 #products .size .koszyk {
