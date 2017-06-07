@@ -5,11 +5,13 @@ body {
 
 #products {
     margin-top: 10%;
+   
 }
 
 #products .size {
+    margin-left: 20px;
     float: left;
-    width: 25%;
+    width: 23%;
     height: 300px;
     background-position: center;
     background-size: cover;
