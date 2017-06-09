@@ -1,4 +1,5 @@
 @media (max-width: 992px) {
+ 
     #products .size {
         width: 47%;
         margin: 1%;
@@ -7,6 +8,8 @@
 
 @media (max-width: 480px) {
     #products .size {
-        width: 100%;
+        clear: both;
+        padding-left: 7%;
+        width: 90%;
     }
 }
